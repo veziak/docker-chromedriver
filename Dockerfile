@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:bookworm
 MAINTAINER Rob Cherry
 
 ENV DEBIAN_FRONTEND noninteractive
